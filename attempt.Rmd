@@ -7,6 +7,8 @@ output: html_document
 k <- 7+3
 k
 a<-k
+k <- a +3
+k
 ```
 
 
