@@ -1,0 +1,23 @@
+---
+title: "18.02 teamwork"
+output: html_document
+---
+#HI
+```{r setup, include=FALSE}
+k <- 7+3
+k
+```
+
+
+
+```{r cars}
+summary(cars)
+```
+
+
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+
